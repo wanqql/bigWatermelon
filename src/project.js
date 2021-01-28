@@ -1901,7 +1901,7 @@ window.__require = function e(t, n, o) {
                 }, t.prototype.update = function(e) {
                     this.UpdateScoreLabel(e), this.lerpCtrl && this.lerpNumFunc(this.passlevelYQ), this.levelPanel.children[1].getComponent(cc.Label).string = s.default.Instance.GetLevel().toString()
                 }, t.prototype.adsButtonFunc = function() {
-                    window.location.href = "https://activity.doumobfour.club/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=83e7c46c40f572de847a2d1b541f19b5&1=1"
+                    // window.location.href = "https://activity.doumobfour.club/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=83e7c46c40f572de847a2d1b541f19b5&1=1"
                 }, t.prototype.TestPasslevel = function() {
                     var e = this;
                     this.lerpCtrl = !0, this.nowYQ >= this.passlevelYQ && (this.levelPanel.children[2].runAction(cc.sequence(cc.delayTime(1.3), cc.callFunc(function() {
