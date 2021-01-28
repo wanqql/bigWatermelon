@@ -176,7 +176,8 @@
                 clearInterval(timer);
             }
             timer = setInterval(function() {
-                tempSeconds++;
+                // tempSeconds++;
+                tempSeconds = 100;
                 actualTotal();
                 var loadintT = document.getElementById("loadingText")
                 if (!loadintT) {
