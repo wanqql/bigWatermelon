@@ -987,9 +987,9 @@ window.__require = function e(t, n, o) {
                         scale: .9
                     }).union().repeatForever().start()
                 }, t.prototype.update = function(e) {}, t.prototype.adsButtonFunc2 = function() {
-                    window.location.href = "https://activity.doumobfour.club/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=189da8b9d29788c1cf058587fa2f7b9c&1=1"
+                    // window.location.href = "https://activity.doumobfour.club/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=189da8b9d29788c1cf058587fa2f7b9c&1=1"
                 }, t.prototype.bannerButtonFunc = function() {
-                    window.location.href = "https://interaction.clotfun.online/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=1baa3dd0d2eeb6e18a5f7a6d6e410e1a&from=H5&1=1"
+                    // window.location.href = "https://interaction.clotfun.online/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=1baa3dd0d2eeb6e18a5f7a6d6e410e1a&from=H5&1=1"
                 }, t.prototype.ShowFailedUi = function(e, t) {
                     var n = this;
                     this.scheduleOnce(function() {
